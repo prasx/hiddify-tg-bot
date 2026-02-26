@@ -1,0 +1,37 @@
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Конфигурация с секретами
+config.py
+.env
+.env.local
+
+# Кэш Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Логи
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.json
+
+# Временные файлы
+*.tmp
+*.bak

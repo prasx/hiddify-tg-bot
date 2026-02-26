@@ -1,0 +1,8 @@
+# Telegram Bot API
+aiogram==3.15.0
+
+# HTTP клиент
+requests==2.32.3
+
+# Переменные окружения (опционально)
+# python-dotenv==1.0.0

@@ -4,7 +4,6 @@
 *.sqlite3
 
 # Конфигурация с секретами
-config.py
 .env
 .env.local
 
